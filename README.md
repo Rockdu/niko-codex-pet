@@ -10,6 +10,8 @@ The pet includes nine animation states and 16 look directions. Its idle keeps bo
 
 ## Install
 
+You can download a ready-made pet package from [Releases](https://github.com/Rockdu/niko-codex-pet/releases/latest), or use the installer below for automatic backups.
+
 Python 3.10 or newer is all you need for installation:
 
 ```sh

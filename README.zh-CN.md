@@ -10,6 +10,8 @@
 
 ## 安装
 
+可直接从 [Releases](https://github.com/Rockdu/niko-codex-pet/releases/latest) 下载桌宠安装包，或使用下面会自动备份旧版本的安装程序。
+
 安装只需要 Python 3.10 或更新版本：
 
 ```sh
