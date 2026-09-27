@@ -1,0 +1,12 @@
+{
+  "primary_sha256": "12e8e7df05a60fe6515e71d495b3c005ea94e016df73a31df9418f70a06909b1",
+  "atlas": [
+    1536,
+    2288
+  ],
+  "temporal_frames": 16,
+  "idle_cycle_ms": 6220,
+  "blink_ms": 220,
+  "idle_boot_pixels_fixed": true,
+  "test_scope": "Local package validation, exact decoded rebuild, isolated installer integration tests, and prior CSS browser playback. Native widget reload is manual."
+}

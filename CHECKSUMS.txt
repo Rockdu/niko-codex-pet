@@ -1,0 +1,3 @@
+250682d3e9f77ef8ba9dc5d177aec012129fc63a9c2956b7c6202d83ad9ddeba  pet/pet.json
+12e8e7df05a60fe6515e71d495b3c005ea94e016df73a31df9418f70a06909b1  pet/spritesheet.webp
+bbf0344195e525fd5504aa78c7e91e91834156265a6067d6b1510d32fbef3a27  pet/spritesheet-static-fallback.webp

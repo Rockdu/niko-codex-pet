@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "atlas_size": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "idle_columns": 6,
+  "frames": [
+    {
+      "file": "idle/00.webp",
+      "duration_ms": 600
+    },
+    {
+      "file": "idle/01.webp",
+      "duration_ms": 440
+    },
+    {
+      "file": "idle/02.webp",
+      "duration_ms": 600
+    },
+    {
+      "file": "idle/03.webp",
+      "duration_ms": 440
+    },
+    {
+      "file": "idle/04.webp",
+      "duration_ms": 600
+    },
+    {
+      "file": "idle/05.webp",
+      "duration_ms": 440
+    },
+    {
+      "file": "idle/06.webp",
+      "duration_ms": 190
+    },
+    {
+      "file": "idle/07.webp",
+      "duration_ms": 60
+    },
+    {
+      "file": "idle/08.webp",
+      "duration_ms": 90
+    },
+    {
+      "file": "idle/09.webp",
+      "duration_ms": 70
+    },
+    {
+      "file": "idle/10.webp",
+      "duration_ms": 190
+    },
+    {
+      "file": "idle/11.webp",
+      "duration_ms": 440
+    },
+    {
+      "file": "idle/12.webp",
+      "duration_ms": 600
+    },
+    {
+      "file": "idle/13.webp",
+      "duration_ms": 430
+    },
+    {
+      "file": "idle/14.webp",
+      "duration_ms": 600
+    },
+    {
+      "file": "idle/15.webp",
+      "duration_ms": 430
+    }
+  ]
+}
